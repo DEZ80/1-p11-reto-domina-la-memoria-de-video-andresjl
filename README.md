@@ -20,7 +20,7 @@ PC: 4000
 ## Actividad 3: Rectángulo de 2 colores y 2 píxeles de ancho
 Alrededor del texto `1.1` que va después de BASIC.
 ```
-21 43 77 22 00 C8 18 FE
+3E 0F 32 3D FA 21 FF FF 22 3E FA 22 40 FA 22 42 FA 3E CF 32 44 FA 3E 0F 32 3D F2 21 FF FF 22 3E F2 22 40 F2 22 42 F2 3E CF 32 44 F2 3E 0C 32 45 F2 32 45 FA 3E 0F 32 DD C2 21 FF FF 22 DE C2 22 E0 C2 22 E2 C2 3E CF 32 E4 C2
 ```
 PC: 4000
 
